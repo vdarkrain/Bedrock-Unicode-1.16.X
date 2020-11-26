@@ -1,13 +1,16 @@
-# bedrock-unicode-characters
-Minecraft:Bedrock Edition Unicode characters
+# символы Minecraft
 
-## How to use
-Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, signs, titles etc.
+# Символы Юникода Minecraft: Bedrock Edition
 
-## How does it work?
-Minecraft asigned images to unicode characters, and didn't remove the ability for players to use them.
+Как использовать
 
-## List of all characters
+Скопируйте символ юникода и вставьте его в чаты, знаки, заголовки и т. Д. Minecraft: Bedrock Edition.
+
+# Как это работает?
+
+Minecraft присвоил изображения персонажам Юникода и не лишил игроков возможности их использовать.
+
+Список всех персонажей
 
 |               Name               |   Platform   | Character | Unicode |  PHP 7.x |
 |:--------------------------------:|:------------:|:---------:|:-------:|:--------:|
